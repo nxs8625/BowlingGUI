@@ -1,2 +1,2 @@
 # BowlingGUI
-2 GUI programs to input bowling ball technical specifications to compile data for mainly tournaments and bowling leagues. The program is also designed to write all of the data to a spreadsheet to be compiled accordingly later on.
+An interface created to enter and store specific bowling ball specifications for more accurate arsenal building for tournaments, leagues, and/or personal use.
